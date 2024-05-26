@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Orders - SQLite</string>
+    <string name="menu_orders">Lista zamówień</string>
+    <string name="about_app">O programie</string>
+    <string name="send_sms">Wyślij SMS</string>
+    <string name="change_language">Zmień język</string>
+    <string name="select_item">Wybierz przedmiot</string>
+    <string name="total_price">Całkowita cena: %.2f zł</string>
+    <string name="enter_username">Podaj nazwę użytkownika lub firmy</string>
+    <string name="order_saved">Zamówienie zapisane</string>
+    <string name="author_name">Autor: Radosław Wypij</string>
+    <string name="author_email">email: radosław.wypij@gmail.com</string>
+    <string name="author_image">Zdjęcie</string>
+    <string name="spinner_blades">Deski</string>
+    <string name="spinner_tables">Stoły</string>
+    <string name="spinner_shoes">Buty</string>
+    <string name="spinner_rubbers">Okładziny</string>
+    <string name="button_spinner">Zatwierdź ilość</string>
+    <string name="button_save_order">Zapisz zamówienie</string>
+    <string name="edit_text_number_tel">Podaj numer telefonu</string>
+    <string name="order">Zamówienie</string>
+    <string name="button_send_email">Wyślij e-mail</string>
+    <string name="email_hint">Podaj e-mail</string>
+    <string name="button_login">Zaloguj się</string>
+    <string name="button_register">Zarejestruj się</string>
+    <string name="password">Hasło</string>
+    <string name="username">Podaj nazwę użytkownika</string>
+    <string name="confirm_username">Potwierdź nazwę użytkownika</string>
+    <string name="share">Udostępnij</string>
+    <string name="toast_sms">Brak zamówień w bazie danych</string>
+    <string name="toast_sms2">Wysłano SMS-a</string>
+    <string name="toast_sms3">Wysłanie SMS-a nie powiodło się. Spróbuj później</string>
+    <string name="toast_sms4">Proszę podać numer telefonu lub/i wiadomość</string>
+    <string name="toast_register">Pomyślnie zarejestrowano</string>
+    <string name="toast_register2">Rejestracja nie powiodła się</string>
+    <string name="toast_register3">Hasła nie pasują do siebie</string>
+    <string name="toast_login">Nieprawidłowe dane logowania</string>
+    <string name="toast_home">E-mail został wysłany</string>
+    <string name="toast_home2">Podaj e-mail</string>
+    <string name="no_order_to_share">Nie ma zamówień do udostępniania</string>
+</resources>

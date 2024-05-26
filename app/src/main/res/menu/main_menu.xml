@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_orders"
+        android:title="@string/menu_orders"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/send_sms"
+        android:title="@string/send_sms"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/share"
+        android:title="@string/share"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/change_language"
+        android:title="@string/change_language"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/about_me"
+        android:title="@string/about_app"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

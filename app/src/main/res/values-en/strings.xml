@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_orders">Orders list</string>
+    <string name="about_app">About app</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="change_language">Change Language</string>
+    <string name="select_item">Select Item</string>
+    <string name="total_price">Total Price: %.2f zł</string>
+    <string name="enter_username">Enter a username or company name</string>
+    <string name="order_saved">Order Saved</string>
+    <string name="author_name">Author: Radosław Wypij</string>
+    <string name="author_email">radosław.wypij@gmail.com</string>
+    <string name="author_image">Picture</string>
+    <string name="spinner_blades">Blades</string>
+    <string name="spinner_tables">Tables</string>
+    <string name="spinner_shoes">Shoes</string>
+    <string name="spinner_rubbers">Rubbers</string>
+    <string name="button_spinner">Confirm Quantity</string>
+    <string name="button_save_order">Save Order</string>
+    <string name="edit_text_number_tel">Enter a phone number</string>
+    <string name="order">Order</string>
+    <string name="button_send_email">Send e-mail</string>
+    <string name="email_hint">Enter an e-mail</string>
+    <string name="button_login">Log in</string>
+    <string name="button_register">Register</string>
+    <string name="password">Password</string>
+    <string name="username">Enter your username</string>
+    <string name="confirm_username">Confirm username</string>
+    <string name="share">Share</string>
+    <string name="toast_sms">No orders in the database</string>
+    <string name="toast_sms2">SMS sent</string>
+    <string name="toast_sms3">SMS failed, please try again later</string>
+    <string name="toast_sms4">Please enter phone number and message</string>
+    <string name="toast_register">Registration successful</string>
+    <string name="toast_register2">Registration failed</string>
+    <string name="toast_register3">Passwords do not match</string>
+    <string name="toast_login">Invalid login details</string>
+    <string name="toast_home">Email was sent</string>
+    <string name="toast_home2">Enter your e-mail address</string>
+    <string name="no_order_to_share">No order to share</string>
+</resources>
